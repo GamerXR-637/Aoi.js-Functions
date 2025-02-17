@@ -9,7 +9,7 @@ fs.readdirSync(functionsPath).forEach(file => {
     if (func.name) {
         client.functionManager.createFunction(func);
     } else {
-        console.error(`Function in file ${getRandomColor()(file)} does not have a name property.`);
+        console.error(`Function in file ${file} does not have a name property.`);
     }
 });
 ```
