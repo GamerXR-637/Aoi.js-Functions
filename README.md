@@ -1,4 +1,4 @@
-# The Royal Knight
+# Aoi.js Functions
 
 The code in this repository is designed to work only with `aoi.js` https://github.com/aoijs/aoi.js. You are free to use the code as you wish, but if you intend to use the functions as they are, please include the following snippet in the index file or the file that all of the important part are:
 
